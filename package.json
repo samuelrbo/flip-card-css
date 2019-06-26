@@ -1,0 +1,10 @@
+{
+  "name": "flip-card",
+  "version": "1.0.0",
+  "description": "Card flip animation with CSS only",
+  "main": "index.js",
+  "repository": "https://github.com/samuelrbo/flip-card-css",
+  "author": "Samuel Ramon <samuelrbo@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
